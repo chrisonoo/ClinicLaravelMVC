@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="Art"
+   viewBox="0 0 24 24"
+   version="1.1"
+   sodipodi:docname="nginx.svg"
+   width="24"
+   height="24"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <sodipodi:namedview
+     id="namedview41"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     showgrid="false"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-page="true"
+     inkscape:zoom="10.516096"
+     inkscape:cx="23.487803"
+     inkscape:cy="24.296088"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Art" />
+  <defs
+     id="defs4">
+    <style
+       id="style2">.cls-1{fill:#999;}.cls-2{fill:#009639;}.cls-3{fill:#fff;}</style>
+  </defs>
+  <title
+     id="title6">NGINX-Part-of-F5-horiz-black-type-RGB</title>
+  <g
+     id="g1422"
+     transform="matrix(0.40159191,0,0,0.40159191,1.4437274,1.7895833e-8)">
+    <path
+       class="cls-2"
+       d="m 7.60573,45.18144 a 3.01888,3.01888 0 0 0 1.13416,1.12547 l 23.20177,13.39555 7.3e-4,-7.2e-4 a 3.04445,3.04445 0 0 0 3.08381,0 L 58.2287,46.30619 a 3.04264,3.04264 0 0 0 1.54118,-2.66955 V 16.84553 l -7.2e-4,-7.2e-4 A 3.0436,3.0436 0 0 0 58.22725,14.17454 L 35.02476,0.779 v -7.4e-4 a 3.04048,3.04048 0 0 0 -3.08165,0 V 0.779 L 8.74134,14.17454 a 3.04231,3.04231 0 0 0 -1.54263,2.67027 l -7.2e-4,7.2e-4 v 26.79111 a 3.02484,3.02484 0 0 0 0.407,1.5448"
+       transform="translate(-7.19784,-0.35892)"
+       id="path24" />
+    <path
+       class="cls-3"
+       d="m 26.05525,40.43948 a 2.98387,2.98387 0 0 1 -5.96774,0 l 7.3e-4,7.2e-4 0.0029,-20.483 a 3.11074,3.11074 0 0 1 3.388,-2.89913 5.30625,5.30625 0 0 1 4.06733,1.81856 l 0.90168,1.07912 12.46563,14.91794 V 20.04052 h -0.0014 a 2.98387,2.98387 0 1 1 5.96774,0 H 46.8794 L 46.8764,40.522 a 3.11118,3.11118 0 0 1 -3.388,2.89914 5.30274,5.30274 0 0 1 -4.06734,-1.81857 L 26.0538,25.60558 V 40.4402 Z"
+       transform="translate(-7.19784,-0.35892)"
+       id="path26" />
+  </g>
+  <metadata
+     id="metadata858">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>NGINX-Part-of-F5-horiz-black-type-RGB</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+</svg>
