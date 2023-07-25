@@ -49,9 +49,9 @@
 </div>
 <br>
 
-## PROJECT DESCRIPTION
+## Description
 
-Clinic management application. It allows you to add doctors and patients to the database and arrange visits. I created the application to train my knowledge and various programming patterns. The application is built on the basis of the MVC pattern, the MariaDB database and the Code First approach. The application does not implement all the functions required in the clinic. I want to present my skills, code understanding, and coding style.
+This is a clinic management application that I've developed to practice various programming patterns and reinforce my knowledge. The app allows users to add doctors and patients to the database and to schedule appointments. It's designed using the MVC pattern, the Code First approach, and the MariaDB database. Please note that it doesn't encompass all functionalities typical for a clinic management system. Its main purpose is to showcase my coding skills, understanding of programming concepts, and coding style.
 
 ## Realized functions
 
